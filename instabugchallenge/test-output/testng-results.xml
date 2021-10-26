@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-26T08:53:17 EET" name="Default suite" finished-at="2021-10-26T08:53:27 EET" duration-ms="10300">
+    <groups>
+    </groups>
+    <test started-at="2021-10-26T08:53:17 EET" name="Default test" finished-at="2021-10-26T08:53:27 EET" duration-ms="10300">
+      <class name="challenge.instabugchallenge.AppTest">
+        <test-method signature="shouldAnswerWithTrueWhenClickOnEnter()[pri:0, instance:challenge.instabugchallenge.AppTest@7adda9cc]" started-at="2021-10-26T08:53:17 EET" name="shouldAnswerWithTrueWhenClickOnEnter" finished-at="2021-10-26T08:53:24 EET" duration-ms="6916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrueWhenClickOnEnter -->
+        <test-method signature="shouldAnswerWithTrueWhenClickOnSearch()[pri:0, instance:challenge.instabugchallenge.AppTest@7adda9cc]" started-at="2021-10-26T08:53:24 EET" name="shouldAnswerWithTrueWhenClickOnSearch" finished-at="2021-10-26T08:53:27 EET" duration-ms="3355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrueWhenClickOnSearch -->
+      </class> <!-- challenge.instabugchallenge.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
